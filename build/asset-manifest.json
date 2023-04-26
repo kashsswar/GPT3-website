@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34e91df7.css",
+    "main.js": "/static/js/main.23e8330d.js",
+    "static/media/Feature Image.png": "/static/media/Feature Image.35f747faff4af43a3ad3.png",
+    "static/media/Rectangle 22-4.png": "/static/media/Rectangle 22-4.1e8e4f0e9e7ad32840f0.png",
+    "static/media/Rectangle 22-1.png": "/static/media/Rectangle 22-1.3ddb740e2f1c9cbf0072.png",
+    "static/media/Rectangle 22-2.png": "/static/media/Rectangle 22-2.79a800ea5e37d65d836b.png",
+    "static/media/Rectangle 22-3.png": "/static/media/Rectangle 22-3.f910bc3cb853fd8d8021.png",
+    "static/media/Rectangle 22.png": "/static/media/Rectangle 22.78a19d857c378df543a7.png",
+    "static/media/Illustration.png": "/static/media/Illustration.27c76672f494814956f4.png",
+    "static/media/Group 81.png": "/static/media/Group 81.27e6620184c0db1e77a1.png",
+    "static/media/dropbox.png": "/static/media/dropbox.59099777525cb4a0fe14.png",
+    "static/media/atlassian.png": "/static/media/atlassian.ca3a8393412ac64b4dde.png",
+    "static/media/GPT-3.svg": "/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/index.html",
+    "main.34e91df7.css.map": "/static/css/main.34e91df7.css.map",
+    "main.23e8330d.js.map": "/static/js/main.23e8330d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e91df7.css",
+    "static/js/main.23e8330d.js"
+  ]
+}
